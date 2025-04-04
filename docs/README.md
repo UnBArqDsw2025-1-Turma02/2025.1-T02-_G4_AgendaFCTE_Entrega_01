@@ -7,8 +7,17 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 22/2006178  |  Thales Henrique Euflauzino dos Santos |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/2015868 | Alexandre Lema Xavier                  |
+| 21/1039484 | Iago Rocha Santos Marques              |
+| 17/0146243 | João Lucas Costa Vale                  |
+| 22/2015186 | Manoela Silvestre Garcia               |
+| 21/1039671 | Pedro Lopes da Cunha                   |
+| 22/2006178 | Thales Henrique Euflauzino dos Santos  |
+| 22/2029243 | Victor Hugo dos Santos Bernardes       |
+| 22/2021924 | Víctor Hugo Lima Schmidt               |
+| 21/1031860 | Victório Lázaro Rocha de Morais        |
+| 21/1030863 | Maykon Júnio dos Santos Soares         |
+
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
