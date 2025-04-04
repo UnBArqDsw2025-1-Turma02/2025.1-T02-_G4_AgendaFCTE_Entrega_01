@@ -22,8 +22,9 @@ jobs:
         run: mkdir -p ./public && cp -r * ./public
 
       - name: Upload de arquivos para o GitHub Pages
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-artifact@v3  # Correção aqui
         with:
+          name: github-pages
           path: ./public
 
       - name: Deploy para GitHub Pages
