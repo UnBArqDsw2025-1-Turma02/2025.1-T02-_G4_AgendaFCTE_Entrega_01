@@ -1,0 +1,30 @@
+name: Deploy Docsify to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main 
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v3
+
+      - name: Criar diretório de publicação
+        run: mkdir -p ./public && cp -r * ./public
+
+      - name: Upload de arquivos para o GitHub Pages
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./public
+
+      - name: Deploy para GitHub Pages
+        uses: actions/deploy-pages@v2
