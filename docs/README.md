@@ -7,7 +7,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 222006178  |  Thales Henrique Euflauzino dos Santos |
+| 22/2006178  |  Thales Henrique Euflauzino dos Santos |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
