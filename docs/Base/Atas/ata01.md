@@ -57,8 +57,7 @@ para o chat GPT formar a tabela em HTML -->
 
 ## Gravação da reunião
 
-<iframe width="1246" height="701" src="https://www.youtube.com/embed/ohscfeQ3obY" title="Reunião 01 - Entrega 1 - Aquitetura e Desenho de Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="1246" height="701" src="https://www.youtube.com/embed/ohscfeQ3obY" title="Reunião 01 - Entrega 1 - Arquitetura e Desenho de Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Histórico de versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
