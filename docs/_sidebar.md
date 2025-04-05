@@ -13,3 +13,4 @@
       - [1.5.1. Cronograma](./Base/1.5.1.Cronograma.md)
         - [1.5.1.1 Cronograma Planejado](./Base/1.5.1.1.CronogramaPlanejado.md)
         - [1.5.1.2 Cronograma Executado](./Base/1.5.1.2.CronogramaExecutado.md)
+      - [1.5.2. Heatmap](./Base/1.5.2.Heatmap.md)
