@@ -25,7 +25,7 @@ A elaboração das *Rich Pictures* seguiu uma abordagem colaborativa e individua
 
 Essa metodologia permitiu que cada integrante expressasse sua compreensão do sistema de forma livre, fomentando o pensamento crítico e ampliando a visão coletiva do grupo sobre o problema abordado.
 
-<font size="3"><p style="text-align: center">Figura 1: Richpicture 1 .</p></font>
+#### Figura 1: Richpicture 1.
 
 ![Figura 1: Rich Picture](../assets/Thales_RichPicture%20-%20AgendaFCTE.jpg)
 
@@ -33,7 +33,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/thaleseuflauzino">Thales Euflauzino</a></font></p>
 </div>
 
-<font size="3"><p style="text-align: center">Figura 2: Richpicture 2 .</p></font>
+#### Figura 2: Richpicture 2.
 
 ![Figura 1: Rich Picture](../assets/rich_picture_victorio.png)
 
@@ -41,12 +41,20 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Victor-oss">Victório Lázaro</a></font></p>
 </div>
 
-<font size="3"><p style="text-align: center">Figura 3: Richpicture 3 .</p></font>
+#### Figura 3: Richpicture 3.
 
 ![Figura 1: Rich Picture](../assets/victor_bernardes-rcp.png)
 
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/VHbernardes">Victor Hugo Bernardes</a></font></p>
+</div>
+
+#### Figura 4: Richpicture 4.
+
+![Figura 1: Rich Picture](../assets/Schmidt_RichPicture%20-%20AgendaFCTE.jpg)
+
+<div>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/moonshinerd">Víctor Schmidt</a></font></p>
 </div>
 
 ## Referências
@@ -61,5 +69,6 @@ Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
 `1.0` | 06/04/2025 | Elaboração do artefato esqueleto | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 `1.1` | 06/04/2025 | Adição da richpicture pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-`1.2` | 06/04/2025 | Adição da richpicture pessoal | [Victório Lázaro](https://github.com/Victor-oss) |
-`1.3` | 06/04/2025 | Adição da richpicture pessoal | [Victor Hugo Bernardes](https://github.com/VHbernardes) |
+`1.2` | 06/04/2025 | Adição da richpicture pessoal | [Victório Lázaro](https://github.com/Victor-oss) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+`1.3` | 06/04/2025 | Adição da richpicture pessoal | [Victor Hugo Bernardes](https://github.com/VHbernardes) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+`1.4` | 06/04/2025 | Adição da richpicture pessoal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
