@@ -33,6 +33,14 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/thaleseuflauzino">Thales Euflauzino</a></font></p>
 </div>
 
+<font size="3"><p style="text-align: center">Figura 2: Richpicture 2 .</p></font>
+
+![Figura 1: Rich Picture](../assets/rich_picture_victorio.png)
+
+<div>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Victor-oss">Victório Lázaro</a></font></p>
+</div>
+
 ## Referências
 
 > 1. BURGE, Stuart. An Overview of the Soft Systems Methodology. In: System Thinking: Approaches and Methodologies. [S.l.]: Burge Hughes Walsh, 2015. Disponível em: https://www.burgehugheswalsh.co.uk/Uploaded/1/Documents/Soft-Systems-Methodology.pdf​. Acesso em: 06/04/2025.
@@ -45,3 +53,4 @@ Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
 `1.0` | 06/04/2025 | Elaboração do artefato esqueleto | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 `1.1` | 06/04/2025 | Adição da richpicture pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+`1.2` | 06/04/2025 | Adição da richpicture pessoal | [Victório Lázaro](https://github.com/Victor-oss) |
