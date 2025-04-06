@@ -62,5 +62,5 @@ para o chat GPT formar a tabela em HTML -->
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-|`1.0`|05/04/2025| Adicionando modelo | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [REVISOR](LINK GITHUB) |
-|`1.1`|06/04/2025| Pequena alteração no HTML do modelo | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [REVISOR](LINK GITHUB) |
+|`1.0`|05/04/2025| Adicionando modelo | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+|`1.1`|06/04/2025| Pequena alteração no HTML do modelo | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
