@@ -25,7 +25,7 @@ A elaboração das *Rich Pictures* seguiu uma abordagem colaborativa e individua
 
 Essa metodologia permitiu que cada integrante expressasse sua compreensão do sistema de forma livre, fomentando o pensamento crítico e ampliando a visão coletiva do grupo sobre o problema abordado.
 
-#### Figura 1: Richpicture 1.
+#### Figura 1: Rich Picture 1.
 
 ![Figura 1: Rich Picture](../assets/Thales_RichPicture%20-%20AgendaFCTE.jpg)
 
@@ -33,7 +33,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/thaleseuflauzino">Thales Euflauzino</a></font></p>
 </div>
 
-#### Figura 2: Richpicture 2.
+#### Figura 2: Rich Picture 2.
 
 ![Figura 2: Rich Picture](../assets/rich_picture_victorio.png)
 
@@ -41,7 +41,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Victor-oss">Victório Lázaro</a></font></p>
 </div>
 
-#### Figura 3: Richpicture 3.
+#### Figura 3: Rich Picture 3.
 
 ![Figura 3: Rich Picture](../assets/victor_bernardes-rcp.png)
 
@@ -49,7 +49,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/VHbernardes">Victor Hugo Bernardes</a></font></p>
 </div>
 
-#### Figura 4: Richpicture 4.
+#### Figura 4: Rich Picture 4.
 
 ![Figura 4: Rich Picture](../assets/Schmidt_RichPicture%20-%20AgendaFCTE.jpg)
 
@@ -57,7 +57,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/moonshinerd">Víctor Schmidt</a></font></p>
 </div>
 
-#### Figura 5: Richpicture 5.
+#### Figura 5: Rich Picture 5.
 
 ![Figura 5: Rich Picture](../assets/Manoela-RichPicture.png)
 
@@ -65,7 +65,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/manu-sgc">Manoela Garcia</a></font></p>
 </div>
 
-#### Figura 6: Richpicture 6.
+#### Figura 6: Rich Picture 6.
 
 ![Figura 6: Rich Picture](../assets/Pedro-RichPicture.png)
 
