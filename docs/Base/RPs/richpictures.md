@@ -89,3 +89,4 @@ Versão  | Data | Descrição | Autor(es) | Revisor(es)
 `1.3` | 06/04/2025 | Adição da richpicture pessoal | [Victor Hugo Bernardes](https://github.com/VHbernardes) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 `1.4` | 06/04/2025 | Adição da richpicture pessoal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 `1.5` | 06/04/2025 | Adição da richpicture pessoal | [Manoela Garcia](https://github.com/manu-sgc) | [Pedro Lopes](https://github.com/pLopess) |
+`1.6` | 06/04/2025 | Adição da richpicture pessoal | [Pedro Lopes](https://github.com/pLopess) | |
