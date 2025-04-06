@@ -8,9 +8,7 @@ Início: XX:XX | Fim: XX:XX
 <!-- Colocar um ✅ se o participante estiver presente ou um ❌ caso negativo -->
 Na Tabela 1, são apresentados os participantes da reunião juntamente com os indicadores que demonstram se estão presentes ou não, onde ✅ significa que o participante está presente e ❌ significa que o participante não compareceu à reunião.
 
-<center>
-
-<font size="2"><p style="text-align: center">Tabela 1: Participantes Convocados e Presença na Reunião</p></font>
+<font size="2">Tabela 1: Participantes Convocados e Presença na Reunião</font>
 
 <table align="center">
   <tr>
@@ -27,11 +25,7 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr><td>Victório Lázaro Rocha de Morais</td><td>21/1031860</td><td>✅/❌</td></tr>
 </table>
 
-<font size="2"><p style="text-align: center">Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino)</p></font>
-
-</center>
-
-
+<font size="2">Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino)</font>
 
 ## Pautas
 
@@ -68,4 +62,5 @@ para o chat GPT formar a tabela em HTML -->
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-|`1.0`|XX/XX/XX| XXXXXXX | [AUTOR](LINK GITHUB) | [REVISOR](LINK GITHUB) |
+|`1.0`|05/04/2025| Adicionando modelo | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+|`1.1`|06/04/2025| Pequena alteração no HTML do modelo | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
