@@ -35,7 +35,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 
 #### Figura 2: Richpicture 2.
 
-![Figura 1: Rich Picture](../assets/rich_picture_victorio.png)
+![Figura 2: Rich Picture](../assets/rich_picture_victorio.png)
 
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/Victor-oss">Victório Lázaro</a></font></p>
@@ -43,7 +43,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 
 #### Figura 3: Richpicture 3.
 
-![Figura 1: Rich Picture](../assets/victor_bernardes-rcp.png)
+![Figura 3: Rich Picture](../assets/victor_bernardes-rcp.png)
 
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/VHbernardes">Victor Hugo Bernardes</a></font></p>
@@ -51,7 +51,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 
 #### Figura 4: Richpicture 4.
 
-![Figura 1: Rich Picture](../assets/Schmidt_RichPicture%20-%20AgendaFCTE.jpg)
+![Figura 4: Rich Picture](../assets/Schmidt_RichPicture%20-%20AgendaFCTE.jpg)
 
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/moonshinerd">Víctor Schmidt</a></font></p>
@@ -59,7 +59,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 
 #### Figura 5: Richpicture 5.
 
-![Figura 1: Rich Picture](../assets/Manoela-RichPicture.png)
+![Figura 5: Rich Picture](../assets/Manoela-RichPicture.png)
 
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/manu-sgc">Manoela Garcia</a></font></p>
@@ -80,4 +80,4 @@ Versão  | Data | Descrição | Autor(es) | Revisor(es)
 `1.2` | 06/04/2025 | Adição da richpicture pessoal | [Victório Lázaro](https://github.com/Victor-oss) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 `1.3` | 06/04/2025 | Adição da richpicture pessoal | [Victor Hugo Bernardes](https://github.com/VHbernardes) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 `1.4` | 06/04/2025 | Adição da richpicture pessoal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-`1.4` | 06/04/2025 | Adição da richpicture pessoal | [Manoela Garcia](https://github.com/manu-sgc) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+`1.5` | 06/04/2025 | Adição da richpicture pessoal | [Manoela Garcia](https://github.com/manu-sgc) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
