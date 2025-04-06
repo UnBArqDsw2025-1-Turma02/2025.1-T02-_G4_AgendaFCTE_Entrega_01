@@ -67,8 +67,8 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
-`1.0` | 06/04/2025 | Elaboração do artefato esqueleto | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-`1.1` | 06/04/2025 | Adição da richpicture pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+`1.0` | 06/04/2025 | Elaboração do artefato esqueleto | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Pedro Lopes](https://github.com/pLopess) |
+`1.1` | 06/04/2025 | Adição da richpicture pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Pedro Lopes](https://github.com/pLopess) |
 `1.2` | 06/04/2025 | Adição da richpicture pessoal | [Victório Lázaro](https://github.com/Victor-oss) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 `1.3` | 06/04/2025 | Adição da richpicture pessoal | [Victor Hugo Bernardes](https://github.com/VHbernardes) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 `1.4` | 06/04/2025 | Adição da richpicture pessoal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
