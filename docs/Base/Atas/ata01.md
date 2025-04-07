@@ -53,10 +53,11 @@ para o chat GPT formar a tabela em HTML -->
 
 ## Gravação da reunião
 
-<iframe width="1246" height="701" src="https://www.youtube.com/embed/ohscfeQ3obY" title="Reunião 01 - Entrega 1 - Arquitetura e Desenho de Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ohscfeQ3obY" title="Reunião 01 - Entrega 1 - Arquitetura e Desenho de Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Histórico de versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 |`1.0`|05/04/2025| Preenchendo a ata | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+|`1.1`|06/04/2025| Arrumando tamanho do iframe do vídeo de acordo com o novo CSS | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
