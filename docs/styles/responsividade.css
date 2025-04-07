@@ -1,0 +1,20 @@
+.markdown-section iframe {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+.markdown-section table {
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+@media (max-width: 768px) {
+    .markdown-section iframe {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .markdown-section table {
+      display: block;
+      width: 100%;
+      overflow-x: auto;
+    }
+}
