@@ -75,8 +75,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 
 #### Figura 7: Rich Picture 7.
 
-![Figura 6: Rich Picture](../assets/Alexandre-RichPicture.jpg)
-
+![Figura 7: Rich Picture](../assets/Alexandre-RichPicture.jpg)
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/AlexandreLJr">Alexandre Lema</a></font></p>
 </div>
