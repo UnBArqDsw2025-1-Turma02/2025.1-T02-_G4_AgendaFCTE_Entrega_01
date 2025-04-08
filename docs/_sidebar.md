@@ -12,6 +12,7 @@
         - [1.1.1.6. Elicitação Questionário](./Base/1.1.5.2.Questionario.md)
       - 1.1.2 Sketch
       - 1.1.3 Decision
+        - [1.1.3.Storyboard.md](./Base/1.1.3.Storyboard.md)
       - 1.1.4 Prototype
       - 1.1.5. Test
         - [1.1.5.1. Perfil de Usuário e Personas](./Base/1.1.5.1.PerfilDeUsuarioEPersonas.md)
