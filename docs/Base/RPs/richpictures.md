@@ -81,6 +81,14 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/AlexandreLJr">Alexandre Lema</a></font></p>
 </div>
 
+#### Figura 8: Rich Picture 8.
+
+![Figura 8: Rich Picture](../assets/jl_rp.png)
+
+<div>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/joaolucas102">João Lucas</a></font></p>
+</div>
+
 ## Referências
 
 > 1. BURGE, Stuart. An Overview of the Soft Systems Methodology. In: System Thinking: Approaches and Methodologies. [S.l.]: Burge Hughes Walsh, 2015. Disponível em: https://www.burgehugheswalsh.co.uk/Uploaded/1/Documents/Soft-Systems-Methodology.pdf​. Acesso em: 06/04/2025.
@@ -99,3 +107,4 @@ Versão  | Data | Descrição | Autor(es) | Revisor(es)
 `1.5` | 06/04/2025 | Adição da richpicture pessoal | [Manoela Garcia](https://github.com/manu-sgc) | [Pedro Lopes](https://github.com/pLopess) |
 `1.6` | 06/04/2025 | Adição da richpicture pessoal | [Pedro Lopes](https://github.com/pLopess) | |
 `1.7` | 06/04/2025 | Adição da richpicture pessoal | [Alexandre Lema](https://github.com/AlexandreLJr) | |
+`1.8` | 08/04/2025 | Adição da richpicture pessoal | [João Lucas](https://github.com/joaolucas102) | |
