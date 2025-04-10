@@ -8,6 +8,8 @@ Início: 14:12 | Fim: 14:40
 <!-- Colocar um ✅ se o participante estiver presente ou um ❌ caso negativo -->
 Na Tabela 1, são apresentados os participantes da reunião juntamente com os indicadores que demonstram se estão presentes ou não, onde ✅ significa que o participante está presente e ❌ significa que o participante não compareceu à reunião.
 
+<center>
+
 <font size="2">Tabela 1: Participantes Convocados e Presença na Reunião</font>
 
 <table align="center">
@@ -26,6 +28,8 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 </table>
 
 <font size="2">Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino)</font>
+
+</center>
 
 ## Pautas
 
@@ -61,3 +65,4 @@ para o chat GPT formar a tabela em HTML -->
 | ------ | ---- | --------- | --------- | ----------- |
 |`1.0`|05/04/2025| Preenchendo a ata | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 |`1.1`|06/04/2025| Arrumando tamanho do iframe do vídeo de acordo com o novo CSS | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+|`1.2`|10/04/2025| Pequena alteração na tabela de participantes | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
