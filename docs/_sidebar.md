@@ -18,6 +18,7 @@
       - 1.1.4 Prototype
       - 1.1.5. Test
         - [1.1.5.1. Perfil de Usuário e Personas](./Base/1.1.5.1.PerfilDeUsuarioEPersonas.md)
+        - [1.1.5.2. Validação Protótipo de Alta Fidelidade](./Base/1.1.5.2.ValicacaoPrototipo.md)
     - [1.2. Artefato Generalista](./Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1 Rich Picture](./Base/RPs/richpictures.md)
       - [1.2.2 Mapa Mental](./Base/1.1.1.1.MapaMental.md.md)
