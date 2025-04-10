@@ -65,4 +65,4 @@ para o chat GPT formar a tabela em HTML -->
 | ------ | ---- | --------- | --------- | ----------- |
 |`1.0`|05/04/2025| Preenchendo a ata | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 |`1.1`|06/04/2025| Arrumando tamanho do iframe do vídeo de acordo com o novo CSS | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
-|`1.2`|10/04/2025| Pequena alteração na tabela de participantes | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+|`1.2`|10/04/2025| Pequena alteração na tabela de participantes | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
