@@ -118,4 +118,4 @@ Esse documento busca determinar um significado impar para cada termo intrumental
 
 | Versão | Data       | Descrição             | Autor                                         | Revisor                                     |
 |--------|------------|-----------------------|-----------------------------------------------|---------------------------------------------|
-| `1.0`    | 07/04/2025 | Montagem do Léxico  | [João Lucas](https://github.com/joaolucas102) |   |
+| `1.0`    | 10/04/2025 | Montagem do Léxico  | [João Lucas](https://github.com/joaolucas102) |   |
