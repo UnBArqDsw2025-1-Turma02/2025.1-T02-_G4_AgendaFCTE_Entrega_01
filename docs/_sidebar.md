@@ -8,6 +8,7 @@
       - 1.1.1. Unpack
         - [1.1.1.1. Mapa Mental](./Base/1.1.1.1.MapaMental.md.md)
         - [1.1.1.2. 5W2H](./Base/5w2h.md)
+        - [1.1.1.3. Diagrama de Causa Efeito](./Base/1.1.1.3.DiagramaCausaEfeito.md)
         - [1.1.1.4. Brainstorming](./Base/1.1.1.4.Brainstorming.md)
         - [1.1.1.5 Entrevista](./Base/1.1.5.1.Entrevista.md)
         - [1.1.1.6. Elicitação Questionário](./Base/1.1.5.2.Questionario.md)
