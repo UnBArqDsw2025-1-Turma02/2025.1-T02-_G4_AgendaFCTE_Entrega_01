@@ -13,6 +13,7 @@
         - [1.1.1.5 Entrevista](./Base/1.1.5.1.Entrevista.md)
         - [1.1.1.6. Elicitação Questionário](./Base/1.1.5.2.Questionario.md)
       - 1.1.2 Sketch
+        - [1.1.2.1. Léxico](./Base/1.1.2.1.lexico.md)
       - 1.1.3 Decision
         - [1.1.3.1. Storyboard](./Base/1.1.3.1.Storyboard.md)
       - 1.1.4 Prototype
