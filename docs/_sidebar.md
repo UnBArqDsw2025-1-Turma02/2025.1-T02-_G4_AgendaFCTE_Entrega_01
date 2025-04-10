@@ -11,12 +11,14 @@
         - [1.1.1.5 Entrevista](./Base/1.1.5.1.Entrevista.md)
         - [1.1.1.6. Elicitação Questionário](./Base/1.1.5.2.Questionario.md)
       - 1.1.2 Sketch
+        - [1.1.2.1. Léxico](./Base/1.1.2.1.lexico.md)
       - 1.1.3 Decision
       - 1.1.4 Prototype
       - 1.1.5. Test
         - [1.1.5.1. Perfil de Usuário e Personas](./Base/1.1.5.1.PerfilDeUsuarioEPersonas.md)
     - [1.2. Artefato Generalista](./Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1 Rich Picture](./Base/RPs/richpictures.md)
+      - [1.2.2. Léxico](./Base/1.1.2.1.lexico.md)
     - [1.3. Modelagem BPMN](./Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](./Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](./Base/1.5.IniciativasExtras.md)
