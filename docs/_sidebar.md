@@ -28,6 +28,8 @@
       - [1.5.2. Heatmap](./Base/1.5.2.Heatmap.md)
       - [1.5.2. Priorização dos Requisitos](./Base/1.5.3.PriorizacaoMosCoW.md)
       - [1.5.3. Ferramentas Utilizadas](./Base/1.5.3.FerramentasUtilizadas.md)
+      - [1.5.4. Guia de Estilo](./Base/1.5.4.GuiaEstilo.md)
+      
 - **Atas**
   - [Ata Modelo](./Base/Atas/ataModelo.md)
   - [Ata 1](./Base/Atas/ata01.md)
