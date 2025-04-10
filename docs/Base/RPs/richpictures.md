@@ -75,9 +75,25 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 
 #### Figura 7: Rich Picture 7.
 
+![Figura 7: Rich Picture](../assets/Maykon-RichPicture.png)
+
+<div>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/maykjuso">Maykon Soares</a></font></p>
+
+#### Figura 8: Rich Picture 8.
+
 ![Figura 7: Rich Picture](../assets/Alexandre-RichPicture.jpg)
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/AlexandreLJr">Alexandre Lema</a></font></p>
+
+</div>
+
+#### Figura 8: Rich Picture 8.
+
+![Figura 8: Rich Picture](../assets/jl_rp.png)
+
+<div>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/joaolucas102">João Lucas</a></font></p>
 </div>
 
 ## Referências
@@ -86,6 +102,7 @@ Essa metodologia permitiu que cada integrante expressasse sua compreensão do si
 >
 > 2. SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. Distrito Federal, 2016. Acesso em: 06/04/2025.
 > 
+
 ## Histórico de Versões
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
@@ -96,5 +113,8 @@ Versão  | Data | Descrição | Autor(es) | Revisor(es)
 `1.3` | 06/04/2025 | Adição da richpicture pessoal | [Victor Hugo Bernardes](https://github.com/VHbernardes) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 `1.4` | 06/04/2025 | Adição da richpicture pessoal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 `1.5` | 06/04/2025 | Adição da richpicture pessoal | [Manoela Garcia](https://github.com/manu-sgc) | [Pedro Lopes](https://github.com/pLopess) |
-`1.6` | 06/04/2025 | Adição da richpicture pessoal | [Pedro Lopes](https://github.com/pLopess) | |
-`1.7` | 06/04/2025 | Adição da richpicture pessoal | [Alexandre Lema](https://github.com/AlexandreLJr) | |
+`1.6` | 06/04/2025 | Adição da richpicture pessoal | [Pedro Lopes](https://github.com/pLopess) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
+`1.7` | 06/04/2025 | Adição da richpicture pessoal | [Maykon Soares](https://github.com/maykjuso) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
+`1.8` | 06/04/2025 | Adição da richpicture pessoal | [Alexandre Lema](https://github.com/AlexandreLJr) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
+`1.9` | 08/04/2025 | Adição da richpicture pessoal | [João Lucas](https://github.com/joaolucas102) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
+
