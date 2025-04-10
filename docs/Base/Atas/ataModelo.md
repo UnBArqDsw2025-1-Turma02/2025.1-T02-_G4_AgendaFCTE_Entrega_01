@@ -68,4 +68,4 @@ para o chat GPT formar a tabela em HTML -->
 | ------ | ---- | --------- | --------- | ----------- |
 |`1.0`|05/04/2025| Adicionando modelo | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 |`1.1`|06/04/2025| Pequena alteração no HTML do modelo | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
-|`1.2`|10/04/2025| Pequena alteração na tabela de participantes | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+|`1.2`|10/04/2025| Pequena alteração na tabela de participantes | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
