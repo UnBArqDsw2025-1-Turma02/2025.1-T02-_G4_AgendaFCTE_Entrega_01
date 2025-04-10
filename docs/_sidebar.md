@@ -35,6 +35,7 @@
       - [1.5.5. Entrevista](./Base/1.1.5.1.Entrevista.md)
       - [1.5.6. Elicitação Questionário](./Base/1.1.5.2.Questionario.md)
       - [1.5.7. Perfil de Usuário e Personas](./Base/1.1.5.1.PerfilDeUsuarioEPersonas.md)
+      - [1.5.8. Guia de Estilo](./Base/1.5.8.GuiaEstilo.md)
 
 - **Atas**
   - [Ata Modelo](./Base/Atas/ataModelo.md)
