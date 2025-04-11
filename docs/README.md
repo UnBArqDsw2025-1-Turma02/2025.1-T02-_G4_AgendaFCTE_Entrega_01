@@ -20,7 +20,31 @@
 
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+O AgendaFCTE é um web‑app que centraliza todos os eventos da FCTE em um só lugar, exibindo data, hora, local, descrição, link de inscrição e contato. Usuários autenticados (por e‑mail) podem filtrar a lista por tema, localização ou palavra‑chave, favoritar eventos, cadastrar novos eventos e gerenciar inscrições com controle de vagas, além de entrar em contato direto com os organizadores.
+
+### Mapa Mental
+
+<center>
+
+![Figura 1: Mapa Mental](<./Base/assets/MapaMental.jpg>)
+
+</center>
+
+### Richpicture
+
+<center>
+
+![Figura 2: Richpicture Escolhido](<./Base/assets/Schmidt_RichPicture - AgendaFCTE.jpg>)
+
+</center>
+
+### Storyboard
+
+<center>
+
+![Figura 3: Storyboard Escolhido](./Base/assets/Pedro_Storyboard.png)
+
+</center>
 
 ## Screenshots da Primeira Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
@@ -29,9 +53,15 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ( ) SIM
 
-( ) NÃO
+(X) NÃO
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição | Autor     |       Revisor         |
+| ------ | ---------- | --------- | --------- | --------------------- |
+| `1.0` | 10/04/2025 | Criação do documento |[Víctor Schmidt](https://github.com/moonshinerd) |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
